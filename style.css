@@ -23,6 +23,7 @@ padding: 12px 10px 0px;
 
 }
 
+
 .green{
     color: #46A358;
 }
@@ -67,7 +68,6 @@ margin-left: 10px;
 img{
 width: 370px;
 height: 370px;
-top: 1045px;
 left: 106px;
 mix-blend-mode: Multiply;
 
@@ -77,6 +77,10 @@ mix-blend-mode: Multiply;
 .navigation{color: #3D3D3D;}
 
 
+.all-plans{
+    display: inline-block;
+}
+
 
 .text{
   color:  #3D3D3D; 
@@ -84,7 +88,7 @@ mix-blend-mode: Multiply;
 
 
 .png-colection{
-  display: inline-block;
+ display:flex;
 }
 
 
@@ -93,6 +97,7 @@ mix-blend-mode: Multiply;
     width: 250px;
     height: 250px;
     background-color: #FBFBFB;
+    padding: 10px;
 }
 
 
@@ -102,7 +107,6 @@ mix-blend-mode: Multiply;
     color: #46A358;
     font-size: 18px;
 }
-
 
 
 
