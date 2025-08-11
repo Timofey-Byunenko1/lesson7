@@ -9,7 +9,6 @@
 .right{
    max-width:  100%;
    display: inline-block;
-   background-color: aliceblue;
    width: 850px;
 }
 
@@ -84,12 +83,6 @@ mix-blend-mode: Multiply;
 }
 
 
-.prise{
-    color: #46A358;
-}
-
-
-
 .png-colection{
   display: inline-block;
 }
@@ -99,4 +92,20 @@ mix-blend-mode: Multiply;
 .imgh{
     width: 250px;
     height: 250px;
+    background-color: #FBFBFB;
+}
+
+
+
+
+.prise{
+    color: #46A358;
+    font-size: 18px;
+}
+
+
+
+
+.img-text{
+    font-size: 16px;
 }
