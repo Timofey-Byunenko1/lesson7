@@ -7,8 +7,10 @@
 }
 
 .right{
-   max-width:  800px;
+   max-width:  100%;
    display: inline-block;
+   background-color: aliceblue;
+   width: 850px;
 }
 
 
@@ -26,8 +28,9 @@ padding: 12px 10px 0px;
     color: #46A358;
 }
 
+
 a{
-color:#3D3D3D ;
+ color:  #3D3D3D ;
 font-family: Cera Pro;
 font-weight: 700;
 font-size: 15px;
@@ -37,7 +40,7 @@ display: block;
 text-decoration: none;
 margin: 5px;
 padding-left: 12px;
-margin-left: 10px;
+margin-left: 10px; 
 }
 
 .zagolovok{
@@ -81,3 +84,19 @@ mix-blend-mode: Multiply;
 }
 
 
+.prise{
+    color: #46A358;
+}
+
+
+
+.png-colection{
+  display: inline-block;
+}
+
+
+
+.imgh{
+    width: 250px;
+    height: 250px;
+}
