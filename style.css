@@ -8,8 +8,10 @@
 
 .right{
    max-width:  100%;
+   width: 900px;
    display: inline-block;
-   width: 850px;
+   background-color: aliceblue;
+   height: 800px;
 }
 
 
@@ -22,6 +24,7 @@ letter-spacing: 0%;
 padding: 12px 10px 0px;
 
 }
+
 
 
 .green{
@@ -78,7 +81,7 @@ mix-blend-mode: Multiply;
 
 
 .all-plans{
-    display: inline-block;
+    display: flex;
 }
 
 
@@ -101,6 +104,10 @@ mix-blend-mode: Multiply;
 }
 
 
+.imgg{
+    white-space: 250;
+    display: flex;
+}
 
 
 .prise{
